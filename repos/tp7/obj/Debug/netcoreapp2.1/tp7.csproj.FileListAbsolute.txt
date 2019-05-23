@@ -1,0 +1,22 @@
+C:\Users\alee2\source\repos\tp7\bin\Debug\netcoreapp2.1\tp7.deps.json
+C:\Users\alee2\source\repos\tp7\bin\Debug\netcoreapp2.1\tp7.runtimeconfig.json
+C:\Users\alee2\source\repos\tp7\bin\Debug\netcoreapp2.1\tp7.runtimeconfig.dev.json
+C:\Users\alee2\source\repos\tp7\bin\Debug\netcoreapp2.1\tp7.dll
+C:\Users\alee2\source\repos\tp7\bin\Debug\netcoreapp2.1\tp7.pdb
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.csprojAssemblyReference.cache
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.csproj.CoreCompileInputs.cache
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.AssemblyInfoInputs.cache
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.AssemblyInfo.cs
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.dll
+C:\Users\alee2\source\repos\tp7\obj\Debug\netcoreapp2.1\tp7.pdb
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\bin\Debug\netcoreapp2.1\tp7.deps.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\bin\Debug\netcoreapp2.1\tp7.runtimeconfig.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\bin\Debug\netcoreapp2.1\tp7.runtimeconfig.dev.json
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\bin\Debug\netcoreapp2.1\tp7.dll
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\bin\Debug\netcoreapp2.1\tp7.pdb
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.csprojAssemblyReference.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.csproj.CoreCompileInputs.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.AssemblyInfoInputs.cache
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.AssemblyInfo.cs
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.dll
+C:\Users\alee2\Google Drive\FACET_\Nivel 2\Taller de Lenguajes 1\tp-nro7-Aleemartinez\repos\tp7\obj\Debug\netcoreapp2.1\tp7.pdb
